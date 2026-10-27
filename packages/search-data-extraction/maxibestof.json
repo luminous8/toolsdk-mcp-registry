@@ -14,9 +14,7 @@
       "url": "https://maxibestof.one/mcp-server",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "mcp:read"
-        ]
+        "scopes": ["mcp:read"]
       }
     }
   ]

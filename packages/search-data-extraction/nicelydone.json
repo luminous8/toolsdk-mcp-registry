@@ -14,11 +14,7 @@
       "url": "https://mcp.nicelydone.club/mcp",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "library:read",
-          "saved:read",
-          "collections:write"
-        ]
+        "scopes": ["library:read", "saved:read", "collections:write"]
       }
     }
   ]
